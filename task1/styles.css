@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    background-color: grey;
+   
+    text-align:center;
+    
+}
+
+img{
+    width: 440px;
+    outline: auto;
+    outline-color: rgb(205, 293, 223);
+}
+ul{
+    margin: 20px;
+    padding: 20px;
+}
